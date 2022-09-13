@@ -1,0 +1,3 @@
+/home/guilhermelarga/Documents/PuyoPuyo/build/Debug/CMakeFiles/PuyoPuyo.dir
+/home/guilhermelarga/Documents/PuyoPuyo/build/Debug/CMakeFiles/edit_cache.dir
+/home/guilhermelarga/Documents/PuyoPuyo/build/Debug/CMakeFiles/rebuild_cache.dir
